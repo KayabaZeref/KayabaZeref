@@ -1,8 +1,8 @@
-### Hello there 👋, 
-📫 You reach me via Facebook/KayabaZeref
-⚡ I’m interested in Front-end and Testing.
-🌱 I’m currently learning about Software Engineer and Information System (IS)
-🔭 I’m currently working on how to get an internship :3
+### Hello there 👋, </br>
+📫 You reach me via Facebook/KayabaZeref </br>
+⚡ I’m interested in Front-end and Testing. </br>
+🌱 I’m currently learning about Software Engineer and Information System (IS) </br>
+🔭 I’m currently working on how to get an internship :3 </br>
 
 <!--
 **KayabaZeref/KayabaZeref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
