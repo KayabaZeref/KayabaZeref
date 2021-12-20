@@ -1,6 +1,6 @@
 ### Hello there 👋, </br>
 📫 You can reach me via Facebook/KayabaZeref </br>
-⚡ I’m interested in Front-end and Testing. </br>
+⚡ I’m interested in Front-end and Automation Testing. </br>
 🌱 I’m currently learning about Software Engineer and Information System (IS) </br>
 🔭 I’m currently working on how to get an internship :3 </br>
 
