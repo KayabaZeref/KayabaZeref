@@ -1,4 +1,5 @@
 ### Hello there 👋, </br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayabaZeref)](https://github.com/anuraghazra/github-readme-stats) </br>
 📫 You can reach me via Facebook/KayabaZeref </br>
 ⚡ I’m interested in Front-end and Automation Testing. </br>
 🌱 I’m currently learning about Software Engineer and Information System (IS) </br>
