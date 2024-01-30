@@ -1,6 +1,6 @@
 ### Hello there 👋, </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayabaZeref&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) </br>
-📫 You can reach me via Facebook/phuongZeref </br>
+📫 You can reach me via facebook.com/phuongZeref </br>
 ⚡ I’m interested in Mobile Develop. </br>
 🌱 I’m currently learning about Software Engineer and Information System (IS) </br>
 🔭 I’m currently working on how to get an internship :3 </br>
