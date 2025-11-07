@@ -1,5 +1,6 @@
 ### Hello there 👋, </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayabaZeref&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) </br>
+[![Codewars Profile Badge](https://www.codewars.com/users/KayabaZeref/badges/large)](https://www.codewars.com/users/KayabaZeref) 
+</br>
 📫 You can reach me via facebook.com/phuongZeref </br>
 ⚡ I’m interested in Mobile Develop. </br>
 🌱 I’m currently learning about Software Engineer and Information System (IS) </br>
