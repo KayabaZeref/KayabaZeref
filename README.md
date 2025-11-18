@@ -1,10 +1,10 @@
 ### Hello there 👋, </br>
 [![Codewars Profile Badge](https://www.codewars.com/users/KayabaZeref/badges/large)](https://www.codewars.com/users/KayabaZeref) 
 </br>
-📫 You can reach me via facebook.com/phuongZeref </br>
-⚡ I’m interested in Mobile Develop. </br>
-🌱 I’m currently learning about Software Engineer and Information System (IS) </br>
-🔭 I’m currently working on how to get an internship :3 </br>
+📫 You can reach me via https://www.facebook.com/phuongisworking/ </br>
+⚡ I’m interested in Mobile Development. </br>
+🌱 I’m currently learning about Software Engineering and Information Systems (IS) </br>
+🔭 I’m currently working on how to get an Internship :3 </br>
 
 
 <!--
