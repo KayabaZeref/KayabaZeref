@@ -2,10 +2,13 @@
 [![Codewars Profile Badge](https://www.codewars.com/users/KayabaZeref/badges/large)](https://www.codewars.com/users/KayabaZeref) 
 </br>
 📫 You can reach me via https://www.facebook.com/phuongisworking/ </br>
-⚡ I’m interested in Mobile Development. </br>
-🌱 I’m currently learning about Software Engineering and Information Systems (IS) </br>
-🔭 I’m currently working on how to get an Internship :3 </br>
+🛠️Software Tester (QA/QC) 🛠️
+🤖 Automation: Selenium • Playwright • RobotFramework
+🧪 Manual: Test Cases • Bug Reports • SDLC/STLC
+💻 Tech: Java • Node.js • SQL • Git • Javascript
 
+🎯 Goal: Delivering bug-free, user-centric software.
+📍 Based in Ho Chi Minh City.
 
 <!--
 **KayabaZeref/KayabaZeref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
