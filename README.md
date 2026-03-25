@@ -2,13 +2,13 @@
 [![Codewars Profile Badge](https://www.codewars.com/users/KayabaZeref/badges/large)](https://www.codewars.com/users/KayabaZeref) 
 </br>
 📫 You can reach me via https://www.facebook.com/phuongisworking/ </br>
-🛠️Software Tester (QA/QC) 🛠️
-🤖 Automation: Selenium • Playwright • RobotFramework
-🧪 Manual: Test Cases • Bug Reports • SDLC/STLC
-💻 Tech: Java • Node.js • SQL • Git • Javascript
+🛠️Software Tester (QA/QC) 🛠️ </br>
+🤖 Automation: Selenium • Playwright • RobotFramework </br>
+🧪 Manual: Test Cases • Bug Reports • SDLC/STLC </br>
+💻 Tech: Java • Node.js • SQL • Git • Javascript </br> 
 
-🎯 Goal: Delivering bug-free, user-centric software.
-📍 Based in Ho Chi Minh City.
+🎯 Goal: Delivering bug-free, user-centric software. </br> 
+📍 Based in Ho Chi Minh City.</br> 
 
 <!--
 **KayabaZeref/KayabaZeref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
