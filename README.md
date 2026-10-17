@@ -1,7 +1,7 @@
 ### Hello there 👋, </br>
 [![Codewars Profile Badge](https://www.codewars.com/users/KayabaZeref/badges/large)](https://www.codewars.com/users/KayabaZeref) 
 </br>
-📫 You can reach me via https://www.facebook.com/phuongisworking/ </br>
+📫 You can reach me via https://www.linkedin.com/phuongisworking/ </br>
 🛠️Software Tester (QA/QC) 🛠️ </br>
 🤖 Automation: Selenium • Playwright • RobotFramework </br>
 🧪 Manual: Test Cases • Bug Reports • SDLC/STLC </br>
