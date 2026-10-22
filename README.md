@@ -1,26 +1,14 @@
-### Hello there 👋, </br>
-[![Codewars Profile Badge](https://www.codewars.com/users/KayabaZeref/badges/large)](https://www.codewars.com/users/KayabaZeref) 
-</br>
-📫 You can reach me via https://www.linkedin.com/phuongisworking/ </br>
-🛠️Software Tester (QA/QC) 🛠️ </br>
-🤖 Automation: Selenium • Playwright • RobotFramework </br>
-🧪 Manual: Test Cases • Bug Reports • SDLC/STLC </br>
-💻 Tech: Java • Node.js • SQL • Git • Javascript </br> 
+### Hello there 👋
 
-🎯 Goal: Delivering bug-free, user-centric software. </br> 
-📍 Based in Ho Chi Minh City.</br> 
+I’m a QA Engineer focused on both Manual Testing and Automation Testing, with hands-on experience in delivering high-quality software products.
 
-<!--
-**KayabaZeref/KayabaZeref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧪 Manual Testing: test cases, smoke & regression testing, bug reporting, verification
+- 🤖 Automation Testing: Playwright, Selenium, Robot Framework
+- 🔎 API Testing: Postman, Swagger, REST API validation
+- 💻 Tech Stack: Java, JavaScript, Node.js, SQL, Git, Jira
+- 📌 Quality mindset: ensuring software is reliable, user-friendly, and bug-free
+- 📍 Based in Ho Chi Minh City
 
-Here are some ideas to get you started:
+🎯 I’m passionate about improving product quality and helping teams release confident, stable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/phuongisworking/)
