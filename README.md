@@ -1,4 +1,5 @@
 ### Hello there 👋
+Here is my Portfolio [![Portfolio](https://img.shields.io/badge/phuongisworking-714B67?logo=Odoo&logoColor=fff)](https://phuongisworking.odoo.com/)
 
 I’m a QA Engineer focused on both Manual Testing and Automation Testing, with hands-on experience in delivering high-quality software products.
 
