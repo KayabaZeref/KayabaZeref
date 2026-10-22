@@ -12,4 +12,4 @@ I’m a QA Engineer focused on both Manual Testing and Automation Testing, with 
 
 🎯 I’m passionate about improving product quality and helping teams release confident, stable software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuongisworking/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-is-working/)
